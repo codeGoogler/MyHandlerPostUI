@@ -93,9 +93,9 @@ View中的post源码如下：
 
 ![效果图.gif](http://upload-images.jianshu.io/upload_images/4614633-aed7e3ceb20638d3.gif?imageMogr2/auto-orient/strip)
 
-> 项目地址：
+> 测试用例项目地址：
 >
-> https://github.com/androidstarjack
+> https://github.com/androidstarjack/MyHandlerPostUI
 
 ### 更多文章
 
